@@ -1,1 +1,1 @@
-# jo-note.github.io
+# Welcome to this informatics engineer's corner!
